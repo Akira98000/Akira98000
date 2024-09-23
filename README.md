@@ -6,12 +6,10 @@ Computer Science student
 
 I am currently a computer science student at the University of Nice Côte d'Azur, with a baccalaureate degree in Mathematics and Computer Science from Albert I High School in Monaco. My passion for mathematics and computer science has led me to pursue studies in this exciting field. I am currently learning various programming skills and am eager to continue developing my knowledge. My GitHub profile will feature projects I have worked on to demonstrate my skills and experience.
 
-*   🌍  I'm based in Monaco
-*   🖥️  See my portfolio at [akiraportofolio.com](http://akiraportfolio.netlify.app/)
+*   🌍  I'm based in Nice
 *   ✉️  You can contact me at [akirakunam06@gmail.com](mailto:akirakunam06@gmail.com)
-*   🚀  I'm currently working on [Akiirranonymous 3.0 (Update)](http://anonymousakiirran.cf/)
+*   🚀  I'm currently working on [Akiirranonymous 3.0 (Update)]()
 *   🧠  I'm learning Kotlin
-*   🤝  I'm open to collaborating on .vcs Calendar Application on python & web
 *   ⚡  Passionate about art and photography
 
 ### Skills 
